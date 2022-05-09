@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitProject</string>
+    <string name="my_log_tag">MYTAG</string>
+</resources>
